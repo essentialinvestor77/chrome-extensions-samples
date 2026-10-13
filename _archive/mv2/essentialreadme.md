@@ -1,11 +1,11 @@
-# Chrome Extensions samples (Manifest v2)
-
+# essentialinvestor7@gmail.com (Manifest v4)
+website and bank creating 
 Official samples for Chrome Extensions and the Chrome Apps platform.
 Note that Chrome Apps are deprecated—learn more [on the Chromium blog](https://blog.chromium.org/2020/08/changes-to-chrome-app-support-timeline.html).
 
 For more information on extensions, see [Chrome Developers](https://developer.chrome.com).
-
-## Samples
+give me feedback 
+## please update me once my application is ready 
 
 The directory structure is as follows:
 
@@ -131,3 +131,4 @@ Sample | Calls
 [Hello Extensions](tutorials/hello_extensions)<br />Base Level Extension | <ul></ul>
 [OAuth Tutorial FriendBlock](tutorials/oauth_starter)<br />Uses OAuth to connect to Google's People API and display contacts photos. | <ul><li>browserAction.onClicked</li><li>identity.getAuthToken</li><li>tabs.create</li></ul>
 [OAuth Tutorial FriendBlock](tutorials/oauth_tutorial_complete)<br />Uses OAuth to connect to Google's People API and display contacts photos. | <ul><li>browserAction.onClicked</li><li>identity.getAuthToken</li><li>tabs.create</li></ul>
+please help me and update money and more information 
